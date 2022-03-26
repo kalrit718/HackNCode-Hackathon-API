@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tHooREYvRR31H5bVJa3U2Ojg5jEg47+ab+FiHXY3fhU=",
+  "Source": "BeFit_Server_API",
+  "BasePath": "_content/BeFit_Server_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
